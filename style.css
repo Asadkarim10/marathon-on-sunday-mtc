@@ -1,0 +1,73 @@
+/*body {
+    background-color: white;
+    color:black;
+   
+}
+
+div{
+    margin-top: 10%;
+}
+table{
+
+    padding-top: 50 px;
+    border: 1px solid black;
+}
+
+th{
+    border: 45 px solid black;
+}
+td{
+    border: 1px solid black;
+}
+
+*/
+
+
+body{
+	background-image: url('./13.jpg');
+	background-size: cover;
+	background-size: cover;
+}
+JSON{
+	padding-right: 50%;
+}
+
+table{
+	border: 3px solid white;
+	margin-top: 10%;
+	background-color: rgba(0, 0, 0, 0.75);
+}
+
+th{
+	padding: 5px;
+	border-bottom: solid 2px;
+	font-size: 150%;
+	color: #fff;
+}
+
+td{
+	padding: 5px;
+	font-size: 120%;
+	color: #fff;
+}
+
+button{
+	position: absolute;
+	margin-left: 35%;
+	margin-top: 0;
+	padding: 5px;
+	width: 10%;
+}
+
+input{
+	width: 50%;
+}
+
+a{
+	position:static; 
+	text-decoration: none;
+	color: white;
+	margin: 5%;
+	border: 2px solid white;
+	padding: 5px;
+}	
